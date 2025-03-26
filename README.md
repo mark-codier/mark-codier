@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently job hunting<br>👥 I’m looking to improve my skills and gain experience<br>🌱 I’m currently learning TypeScript | XCSS  <br>⚡ Random fact: I am very judgmental of myself, but when it comes to others, I am the kindest 
+🔭 I’m currently job hunting<br>👥 I’m looking to improve my skills and gain experience<br>🌱 I’m currently learning TypeScript <br>⚡ Random fact: I am very judgmental of myself, but when it comes to others, I am the kindest 
 
 
 ## 🌐 Socials:
